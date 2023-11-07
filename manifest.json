@@ -464,11 +464,7 @@
       "sizes": "1024x1024"
     }
   ],
-  "shortcuts": [
-    {
-      "name": "web",
-      "url": "web",
-      "description": "web"
-    }
-  ]
+  "shortcuts": [],
+  "id": "first-web-facu",
+  "lang": "es"
 }
